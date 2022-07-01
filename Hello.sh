@@ -1,1 +1,1 @@
-echo "Hello, welcome to actions"
+echo "Hello, welcome to github actions"
